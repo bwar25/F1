@@ -1,5 +1,5 @@
-# F1
+# F1 2020 Stats 
 
 ---
 
-2020 Stats - prototype learning
+prototype learning
